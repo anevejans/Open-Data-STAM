@@ -6,7 +6,7 @@
 * _Bibliografieën bij de objecten uit de STAM-collectie worden beschikbaar gemaakt._
 
 ## _20180920_DO_export-boek.csv_
-* _De dataset omvat enkele indentificatiegegevens over de objecten (record – object_number, URI object, record – title, record - title - lang, record - title – occurrence), bibliografische referenties (record - documentation.title, URI OL, record - documentation.page_reference,  record - title - lang, record - title - occurrence, Familienaam auteur, Voornaam auteur), referenties naar onuitgegeven bronnen (Onuitgegeven documentatie) en informatie over licenties (URI CC) en bronvermelding (Bronvermelding)_
+* _De dataset omvat 5155 records. De metadata bestaan uit indentificatiegegevens over het object (record – object_number, URI object, record – title, record - title - lang, record - title – occurrence), bibliografische referenties (record - documentation.title, URI OL, record - documentation.page_reference,  record - title - lang, record - title - occurrence, Familienaam auteur, Voornaam auteur), referenties naar onuitgegeven bronnen (Onuitgegeven documentatie) en informatie over licenties (URI CC) en bronvermelding (Bronvermelding)_
 * _De data zijn gepubliceerd als csv-bestand._
 
 ## Licenties
